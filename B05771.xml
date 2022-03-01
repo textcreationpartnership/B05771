@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second advice to the painter.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05771</idno>
+            <idno type="OCLC"> 12367927</idno>
+            <idno type="STC">Wing S2255A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 839.m.22[5]</idno>
+            <idno type="EEBO-CITATION">99890898</idno>
+            <idno type="PROQUEST">ocm99890898</idno>
+            <idno type="VID">181731</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05771)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181731)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:2[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second advice to the painter.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  Early modern, 1500-1700 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:181731:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 39 -->
+            <head>THE SECOND ADVICE TO THE PAINTER.</head>
+            <lg>
+               <l>NOw <hi>Painter</hi> try if thy skil'd hand can draw,</l>
+               <l>The horrid'ſt Scene the trembling world ere ſaw;</l>
+               <l>Wipe all the Pencills that the former drew,</l>
+               <l>In diſmal colours dip 'um all anew;</l>
+               <l>Colours that may in lively parts expreſs</l>
+               <l>The plotted fall of <hi>Monarchs</hi> in a dreſs:</l>
+               <l>May fright the World from Crimes we can't atone,</l>
+               <l>With our beſt bloods, and Chriſtians bluſh to own:</l>
+               <l>But let me firſt adviſe you ere you take</l>
+               <l>This work in hand, a ſmall reflection make</l>
+               <l>On all that's hainous; <hi>Murthers, Treaſons, Fires,</hi>
+               </l>
+               <l>
+                  <hi>Deaths</hi> in all ſhapes, and <hi>rapines,</hi> hot deſires:</l>
+               <l>Of <hi>Murthering Kings</hi> I tremble to reherſe,</l>
+               <l>A tottering world and ſinking Univerſe:</l>
+               <l>Think well on theſe ere you begin your part</l>
+               <l>'T will heighten fancy, and affect your heart:</l>
+               <l>In th' upper part of all the Canvas, paint</l>
+               <l>His <hi>Holyneſs</hi> the <hi>Pope,</hi> that mighty Saint,</l>
+               <l>Old Sathan his aſſociate too muſt ſtand</l>
+               <l>Behind his chair to guide his heart and hand;</l>
+               <l>Draw him ſtuck round with all the toyes that come</l>
+               <l>From the grand Mint of lies, old foppiſh <hi>Rome:</hi>
+               </l>
+               <l>
+                  <hi>Bulls, Diſpenſations, Pardons,</hi> all the baits</l>
+               <l>He lays for the dull crow'd; the <hi>Book of rates</hi>
+               </l>
+               <l>Will be convenient too, that t'every ſin</l>
+               <l>The value may be known, pray cram that in:</l>
+               <l>Draw him diſperſing with a bounteous hand</l>
+               <l>For horrid ends the treaſure of his Land;</l>
+               <pb n="2" facs="tcp:181731:2"/>
+               <!-- PDF PAGE 40 -->
+               <l>Diſpenſing with falſe Oaths, or any thing,</l>
+               <l>So that they'l Murther <hi>Charles</hi> Great <hi>Brittains</hi> King:</l>
+               <l>Poor fool to think the guardian of his throne,</l>
+               <l>Is grown as dull and ſenſleſs as his own;</l>
+               <l>No, proud Impoſtor, no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy hand's too ſhort</l>
+               <l>To reach his head or make his fall thy ſport.</l>
+            </lg>
+            <lg>
+               <l>Next draw proud <hi>France,</hi> and his ambitious hope</l>
+               <l>Of being mighty, cringing to the Pope:</l>
+               <l>'Tis not his zeal to him, or to thoſe laws</l>
+               <l>That cheat the world, that his affection draws;</l>
+               <l>'Tis int'reſt, mighty int'reſt, bears the ſway,</l>
+               <l>He dares not, though he's willing, diſobey:</l>
+               <l>Baſe Prince and fooliſh too, your ſelf you cheat,</l>
+               <l>When on ſuch terms as theſe you would be great;</l>
+               <l>You feaſt your ſences, ſecure at coſtly rates,</l>
+               <l>That nothing elſe can ſerve but dellicates</l>
+               <l>Dipt in the blood of Princes; Deaths of Kings,</l>
+               <l>In your opinion are but vulgar things:</l>
+               <l>Had thirſt of Empire ſway'd a generous ſoul</l>
+               <l>Theſe baſe low tricks cou'd never ſure controul;</l>
+               <l>But to a minde ſo firm on miſchief bent,</l>
+               <l>No generous thoughts or honour could prevent</l>
+               <l>The meaneſt actions; Princes ſhould be true,</l>
+               <l>And act on principles of honour too:</l>
+               <l>Then they are Sacred to the world, and ought</l>
+               <l>To be adored, then diſreſpect's a fault:</l>
+               <l>But when from baſe degenerate they are grown,</l>
+               <l>The vulgar hurl'um headlong from the throne:</l>
+               <l>Go on vile Prince in all theſe acts, and try,</l>
+               <l>How ſoon your Crown will fade, your Empire dye;</l>
+               <l>By your example your own Subjects teach,</l>
+               <l>To ſtrike at Empires and at Scepters reach,</l>
+               <l>And may their firſt attempt be on thy head,</l>
+               <l>Dethrone thee firſt of all, then ſtrike thee dead.</l>
+            </lg>
+            <lg>
+               <l>Now Painter to our Subjects dip thy pen</l>
+               <l>In black, in horrid black, yet once agen;</l>
+               <l>For when a Subject from a King revolts,</l>
+               <l>Conſpires his death, and thinks theſe things no faults,</l>
+               <l>The ſcene muſt needs be horrid, firſt begin</l>
+               <l>With <hi>Bellaſis</hi> and his foul and grateful ſin:</l>
+               <l>Draw him a monſter, in as foul a dreſs</l>
+               <l>As ere your heart can think, or hand expreſs;</l>
+               <pb n="3" facs="tcp:181731:2"/>
+               <!-- PDF PAGE 40 -->
+               <l>Long did he in his Princes boſom lie</l>
+               <l>One would have thought void of all Treachery;</l>
+               <l>For what baſe man but he, could ere conſpire</l>
+               <l>To ſet that houſe, wherein he lives, on fire?</l>
+               <l>Who could ſuch Treaſon harbour in his breaſt,</l>
+               <l>'Gainſt th' beſt of Princes, and to him the beſt?</l>
+               <l>The other Lords muſt on the Stage be led,</l>
+               <l>Drawn—each man with halter on his head,</l>
+               <l>And dagger in his heart, that ſo in vain</l>
+               <l>Where with they ſtrove to ſtab their Soveraign:</l>
+               <l>Baſe Rebells! do you thus your Prince reward?</l>
+               <l>Have you no Honour left? or no regard</l>
+               <l>T'his Clemency, which ſome of you I know</l>
+               <l>Have taſted, or y' had di'd for't long ago:</l>
+               <l>Had he been cruel or Tirannick grown,</l>
+               <l>You had more reaſon to uſurp his Throne;</l>
+               <l>But to a Gratious and Obliging Prince,</l>
+               <l>'Tis paſt all hopes of pardon or defence.</l>
+            </lg>
+            <lg>
+               <l>Now <hi>Painter</hi> draw me <hi>Hell</hi> in all its heat,</l>
+               <l>Let ſulphurous flames and diſmal darkneſs meet,</l>
+               <l>And in the hotteſt place, as beſt befits,</l>
+               <l>Draw <hi>Stayly, Coleman,</hi> and the <hi>Jeſuits:</hi>
+               </l>
+               <l>Let 'um indure the flaming brimſtone rage,</l>
+               <l>Thoſe bloody Trayterous miſcreants of our age,</l>
+               <l>Thoſe were the men deſign'd (O horrid act)</l>
+               <l>Nay were reſolved too, to commit the fact;</l>
+               <l>Baſe Rebells don't you know, that Heavens high hand</l>
+               <l>Has ſtill kept ſafe the Monach of our Land,</l>
+               <l>And cou'd you think to move our Scene, and do</l>
+               <l>What Heavens great Lord had nere conſented to.</l>
+               <l>Burn on vile wretches, think well on theſe things,</l>
+               <l>What Treaſon is, what 'tis to Murther Kings.</l>
+            </lg>
+            <lg>
+               <l>Now draw in all his Majeſty and State,</l>
+               <l>Our Soveraign Prince, juſt riſing from his Fate;</l>
+               <l>Pray paint him laughing at the follies done</l>
+               <l>By th' <hi>Pope,</hi> and <hi>France,</hi> his moſt unchriſtian Son?</l>
+               <l>Prithy Old fellow, prithy tell me why,</l>
+               <l>Old <hi>England</hi> ſhould ſo much diſturb thy Eye:</l>
+               <l>Is it becauſe we do not dote like you,</l>
+               <l>And worſhip all your Saints we never knew?</l>
+               <l>If theſe, Old man, our aggravations be,</l>
+               <l>Know, we defy thy Mallice, Imps, and thee.</l>
+            </lg>
+            <div type="poem">
+               <pb n="4" facs="tcp:181731:3"/>
+               <!-- PDF PAGE 41 -->
+               <head>To the KING.</head>
+               <lg>
+                  <l>WElcome great Prince, to Life agen, at leaſt,</l>
+                  <l>welcom from dangers, which we hope are ceaſt,</l>
+                  <l>Dangers which lately hover'd o're your head,</l>
+                  <l>Threatning to ſtrike your riſing Glory dead;</l>
+                  <l>The Cloud's blown over, and the miſts away</l>
+                  <l>Portend the riſing of a glorious day?</l>
+                  <l>May ſtill your Saored Majeſty give Law</l>
+                  <l>To all your Kingdoms, keeping them in aw,</l>
+                  <l>May your bright Crown, as beauteous rays diſperſe,</l>
+                  <l>As any Monarchs of the Univerſe.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
